@@ -3,13 +3,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.nio.BufferOverflowException;
 import java.nio.BufferUnderflowException;
+import java.util.stream.IntStream;
 
 public class Main {
     public static void main(String[] args) {
-        //floatSystemIn();
-        //task2();
-        //task3();
-        task4();
+
     }
 
     public static float floatSystemIn() {
